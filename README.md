@@ -74,8 +74,11 @@ Quando nenhum formato está definido, o visual aplica abreviação automática (
 
 Copyright (c) 2026 Sayuri Valente Arimori. Todos os direitos reservados.
 
-Este visual é disponibilizado apenas para uso no Power BI.
-Não é permitido copiar, modificar, redistribuir, vender ou usar comercialmente sem autorização expressa por escrito.
+É permitido baixar e usar o arquivo .pbiviz disponibilizado neste repositório exclusivamente para uso próprio no Power BI.
+
+Não é permitido vender, revender, redistribuir, sublicenciar, modificar, fazer engenharia reversa, republicar em outros sites ou repositórios, incorporar em produtos comerciais para terceiros, ou alegar autoria sobre este arquivo, sem autorização expressa por escrito da autora.
+
+Este arquivo é fornecido "como está", sem garantias de qualquer tipo.
 
 Para licenciamento comercial, entrar em contato pelo instagram: say.valente
 
@@ -84,8 +87,3 @@ Para licenciamento comercial, entrar em contato pelo instagram: say.valente
 *Desenvolvido por Sayuri Valente Arimori*
 
 
-Copyright (c) 2026 Sayuri Valente Arimori.
-Todos os direitos reservados.
-
-Este arquivo é disponibilizado apenas para utilização no Power BI.
-Não é permitido copiar, modificar, redistribuir, vender ou usar comercialmente sem autorização expressa por escrito.
